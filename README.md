@@ -149,30 +149,33 @@ Usada para criar gráficos, detectar eventos do usuário, e manipular elementos 
 
 <ol>
     <li>
-        <p>Baixe todos os arquivos presentes na pasta FlappyBird.</p>
-        <img src="">
+        <p>Baixe "flappybird.py" e os arquivos presentes na pasta "imgs" do repositório flappybird.</p>
+        <img src="imgs/guia_de_uso_1.png">
     </li>
     <li>
-       <p>Com todos os arquivos da pasta Flappy Bird baixados, clique com o botão direito do mouse, sobre a seguinte pasta.</p> 
-       <img>
+       <p>Com todos os arquivos da pasta Flappy Bird baixados, clique com o botão direito do mouse, sobre a seguinte pasta.( indicado renomear a pasta com o nome flappybird ) e depois em "Mostrar mais opções"</p> 
+       <img src="imgs/guia_de_uso_2.png">
+       <br>
+       <img src="imgs/guia_de_uso_3.jpg">
     </li>
     <li>
       <p>Encontre a opção, "Abrir com o Code" ou "Open with Code" em inglês.</p>
-      <img>
+      <img src="imgs/guia_de_uso_4.png">
     </li>
     <li>
       <p>Ao abrir a pasta com o VSCode, na aba do explorador de arquivos do editor de código, clique sobre o arquivo nomeado "flappybird.py"</p>
-      <img>
+      <img src="imgs/guia_de_uso_5.png">
     </li>
     <li>
       <p>Executados todos os passos anteriores de forma correta, no arquivo  "flappybird.py" clique sobre o botão "Run Code", do VSCODE, para o ver o jogo em funcionamento.</p>
-      <img>
+      <img src="imgs/guia_de_uso_6.png">
+      <img src="imgs/guia_de_uso_7.png">
       </li>
       <li>
       <p>
       Pressione a tecla "espaço do teclado" e divirta-se!!!
       </p>
-      <img>
+      <img src="imgs/guia_de_uso_8.png">
     </li>
 </ol>
 
