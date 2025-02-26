@@ -20,7 +20,7 @@ Embora o criador tenha removido o jogo das lojas digitais em fevereiro de 2014 d
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Visit this Project</a>
+     <a href="https://github.com/code-silva/flappybird/blob/main/flappybird.py">📱 Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Flappy Bird: Um Jogo Simples e Marcante</h2>
